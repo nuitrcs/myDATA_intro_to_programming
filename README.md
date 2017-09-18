@@ -21,7 +21,7 @@ TA: Sam Cooler
 
 ### Workshop 2
 Date: 9/26, Time: 9am - 10:30am, Location: McGaw 2-322  
-Topics:  [Python pt. 1](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1) 
+Topics:  [Python pt. 1](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1)  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 2
@@ -30,7 +30,7 @@ TA: Sam Cooler
 
 ### Workshop 3
 Date: 10/3, Time: 9am - 10:30am, Location: McGaw 2-322  
-Topics:  [Python pt. 2](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_2)
+Topics:  [Python pt. 2](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_2)  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 3
@@ -39,7 +39,7 @@ TA: Sam Cooler
 
 ### Workshop 4
 Date: 10/10, Time: 9am - 10:30am, Location: McGaw 2-322  
-Topics:  [Python pt. 3](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_3)
+Topics:  [Python pt. 3](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_3)  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 4
@@ -48,76 +48,54 @@ TA: Sam Cooler
 
 ### Workshop 5
 Date: 10/17, Time: 9am - 10:30am, Location: Lurie - Baldwin Auditorium  
-Topics:  [Python pt. 4](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_4)
+Topics:  [Python pt. 4](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_4)  
 Instructor: Alper Kinaci akinaci@northwestern.edu  
 
 ### Lab 5
-Date: 10/20  
-Time: 9am - 10:30am  
-Location: Galter Library 02-013  
+Date: 10/20, Time: 9am - 10:30am, Location: Galter Library 02-013  
 TA: Sam Cooler  
 
 ### Workshop 6
-Date: 10/24 
-Time: 9am - 10:30am  
-Location: Lurie - Baldwin Auditorium  
-Topics: Pandas Pt. 1  
+Date: 10/24, Time: 9am - 10:30am, Location: Lurie - Baldwin Auditorium  
+Topics: [Pandas Pt. 1](https://github.com/nuitrcs/pythonworkshops/blob/master/dataanalysis/pandas/Part%201%20-%20Basics.ipynb)  
 Instructor: Matthew Rich matthew.rich@northwestern.edu  
 
 ### Lab 6
-Date: 10/27  
-Time: 9am - 10:30am  
-Location: Lurie - Searle Seminar Room  
+Date: 10/27, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
 TA: Sam Cooler
 
 ### Workshop 7  
-Date: 10/31  
-Time: 9am - 10:30am  
-Location: McGaw 2-322  
-Topics:  Pandas Pt. 2, Statistics  
+Date: 10/31, Time: 9am - 10:30am, Location: McGaw 2-322  
+Topics:  Pandas Pt. 2, Statistics    
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 ### Lab 7
-Date: 11/3  
-Time: 9am - 10:30am  
-Location: Lurie - Searle Seminar Room  
+Date: 11/3, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
 TA: Sam Cooler 
 
 ### Workshop 8  
-Date: 11/7  
-Time: 9am - 10:30am  
-Location: McGaw 2-322  
+Date: 11/7, Time: 9am - 10:30am, Location: McGaw 2-322   
 Topics:  Pandas Pt. 3, Numpy  
 Instructor: Matthew Rich matthew.rich@northwestern.edu  
 
 ### Lab 8
-Date: 11/10  
-Time: 9am - 10:30am  
-Location: Lurie - Searle Seminar Room  
+Date: 11/10, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
 TA: Sam Cooler 
 
 ### Workshop 9
-Date: 11/14  
-Time: 9am - 10:30am  
-Location: McGaw 2-322  
+Date: 11/14, Time: 9am - 10:30am, Location: McGaw 2-322  
 Topics:  Visualization with Matplotlib   
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 ### Lab 9
-Date: 11/17  
-Time: 9am - 10:30am  
-Location: Lurie - Searle Seminar Room  
+Date: 11/17, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
 TA: Sam Cooler 
 
 ### Workshop 10
-Date: 11/21  
-Time: 9am - 10:30am  
-Location: McGaw 2-322  
+Date: 11/21, Time: 9am - 10:30am, Location: McGaw 2-322  
 Topics:  Focus on the Proposal/Wrap-up     
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 10
-Date: 11/28  
-Time: 9am - 10:30am  
-Location: McGaw 2-322   
+Date: 11/28, Time: 9am - 10:30am, Location: McGaw 2-322   
 TA: Sam Cooler 
