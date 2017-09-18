@@ -8,7 +8,7 @@ myDATA has recieved funding support from the Burroughs Wellcome Fund Grant.
 
 # Installation Instructions
 
-All Python files are written using Python 3.6. We recommend the Anaconda distribution of Python [(download)](https://asterdata.es.net), which includes many packages used by the scripts in the workshop series, as well as Jupyter for running notebooks.
+Download the Anaconda distribution of Python 3.6 [(download)](https://asterdata.es.net), which includes many packages used by the scripts in the workshop series, as well as Jupyter for running notebooks.
 
 # Schedule
 
