@@ -8,16 +8,12 @@ The first workshop meeting will take place on Tuesday, September 19, 9:00am – 
 
 myDATA has recieved funding support from the Burroughs Wellcome Fund Grant. 
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
 # Schedule
 
 ### Workshop 1  
-   Date: 9/19  
-   Time: 9am - 10:30am  
-   Location: McGaw 2-322  
-   Topics:  Installations, Intro to Python
-   Instructor: Janna Nugent janna.nugent@northwestern.edu  
+Date: 9/19, Time: 9am - 10:30am, Location: McGaw 2-322  
+Topics:  Installations, [Intro to Python](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1)  
+Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 1
 Date: 9/22  
