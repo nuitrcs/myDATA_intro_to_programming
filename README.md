@@ -11,11 +11,11 @@ myDATA has recieved funding support from the Burroughs Wellcome Fund Grant.
 # Schedule
 
 ### Workshop 1
-Date: 9/19 </b>
-Time: 9am - 10:30am</b>
-Location: McGaw 2-322</b>
-Topics:</b>
-Instructor: Janna Nugent janna.nugent@northwestern.edu</b>
+<b>Date: 9/19 </b>
+<b>Time: 9am - 10:30am</b>
+<b>Location: McGaw 2-322</b>
+<b>Topics:</b>
+<b>Instructor: Janna Nugent janna.nugent@northwestern.edu</b>
 
 ### Lab 1
 <p>Date: 9/22</p>
