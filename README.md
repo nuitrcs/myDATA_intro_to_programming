@@ -11,20 +11,19 @@ myDATA has recieved funding support from the Burroughs Wellcome Fund Grant.
 # Schedule
 
 ### Week 1  
-#### Lecture  Date: 9/19, Time: 9am - 10:30am, Location: McGaw 2-322  
+#### Lecture: 9/19, Time: 9am - 10:30am, Location: McGaw 2-322  
 Topics:  Introductions, Installations, [Intro to Python](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1)  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
-#### Lab  Date: 9/22, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
+#### Lab: 9/22, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
 TA: Sam Cooler  
 
-### Workshop 2
-Date: 9/26, Time: 9am - 10:30am, Location: McGaw 2-322  
+### Week 2
+#### Lecture: 9/26, Time: 9am - 10:30am, Location: McGaw 2-322  
 Topics:  [Python pt. 1](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1)  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
-#### Lab 2
-Date: 9/29, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
+#### Lab 2: 9/29, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
 TA: Sam Cooler  
 
 ### Workshop 3
