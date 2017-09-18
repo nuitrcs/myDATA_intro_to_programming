@@ -18,10 +18,10 @@ Topics:
 Instructor: Janna Nugent janna.nugent@northwestern.edu
 
 ### Lab 1
-Date: 9/22
-Time: 9am - 10:30am
-Location: Lurie - Searle Seminar Room
-TA: Sam Cooler
+<p>Date: 9/22</p>
+<p>Time: 9am - 10:30am</p>
+<p>Location: Lurie - Searle Seminar Room</p>
+<p>TA: Sam Cooler</p>
 
 ### Workshop 2
 Date: 9/26
