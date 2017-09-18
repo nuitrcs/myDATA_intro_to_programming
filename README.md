@@ -66,7 +66,7 @@ TA: Sam Cooler
 
 ### Workshop 7  
 Date: 10/31, Time: 9am - 10:30am, Location: McGaw 2-322  
-Topics:  [Pandas Pt. 2](https://github.com/nuitrcs/pythonworkshops/blob/master/dataanalysis/pandas/Part%202%20-%20Grouping%2C%20Plotting%2C%20%26%20Merging.ipynb) 
+Topics:  [Pandas Pt. 2](https://github.com/nuitrcs/pythonworkshops/blob/master/dataanalysis/pandas/Part%202%20-%20Grouping%2C%20Plotting%2C%20%26%20Merging.ipynb)   
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 ### Lab 7
@@ -75,7 +75,7 @@ TA: Sam Cooler
 
 ### Workshop 8  
 Date: 11/7, Time: 9am - 10:30am, Location: McGaw 2-322   
-Topics:  Pandas Pt. 3, Numpy  
+Topics:  Pandas Pt. 3, [Numpy](https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/numpy)    
 Instructor: Matthew Rich matthew.rich@northwestern.edu  
 
 ### Lab 8
@@ -84,7 +84,7 @@ TA: Sam Cooler
 
 ### Workshop 9
 Date: 11/14, Time: 9am - 10:30am, Location: McGaw 2-322  
-Topics:  Visualization with Matplotlib   
+Topics:  [Visualization with Matplotlib]https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/visualization     
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 ### Lab 9
@@ -92,10 +92,10 @@ Date: 11/17, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room
 TA: Sam Cooler 
 
 ### Workshop 10
-Date: 11/21, Time: 9am - 10:30am, Location: McGaw 2-322  
-Topics:  Focus on the Proposal/Wrap-up     
+Date: 11/28, Time: 9am - 10:30am, Location: McGaw 2-322  
+Topics:  Biostatistics/Focus on the Proposal  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 10
-Date: 11/28, Time: 9am - 10:30am, Location: McGaw 2-322   
+Date: 12/1, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room   
 TA: Sam Cooler 
