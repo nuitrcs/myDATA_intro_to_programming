@@ -84,7 +84,7 @@ TA: Sam Cooler
 
 ### Workshop 9
 Date: 11/14, Time: 9am - 10:30am, Location: McGaw 2-322  
-Topics:  [Visualization with Matplotlib]https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/visualization     
+Topics:  [Visualization with Matplotlib](https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/visualization)       
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 ### Lab 9
