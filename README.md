@@ -8,16 +8,14 @@ The first workshop meeting will take place on Tuesday, September 19, 9:00am – 
 
 myDATA has recieved funding support from the Burroughs Wellcome Fund Grant. 
 
-<TD style="LINE-HEIGHT:20px">
-
 # Schedule
 
 ### Workshop 1
-Date: 9/19
-Time: 9am - 10:30am
-Location: McGaw 2-322
-Topics:
-Instructor: Janna Nugent janna.nugent@northwestern.edu
+Date: 9/19 </b>
+Time: 9am - 10:30am</b>
+Location: McGaw 2-322</b>
+Topics:</b>
+Instructor: Janna Nugent janna.nugent@northwestern.edu</b>
 
 ### Lab 1
 <p>Date: 9/22</p>
