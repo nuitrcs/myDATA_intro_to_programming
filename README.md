@@ -10,7 +10,7 @@ myDATA has recieved funding support from the Burroughs Wellcome Fund Grant.
 
 # Schedule
 
-### Workshop 1
+### Workshop 1  
 Date: 9/19  
 Time: 9am - 10:30am  
 Location: McGaw 2-322  
