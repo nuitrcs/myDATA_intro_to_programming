@@ -63,17 +63,40 @@ Location: Galter Library 02-013
 TA: Sam Cooler  
 
 ### Workshop 5
-Date: 10/10  
+Date: 10/17 
 Time: 9am - 10:30am  
 Location: Lurie - Baldwin Auditorium  
 Topics:  
-Instructor: Janna Nugent janna.nugent@northwestern.edu  
+Instructor: Alper Kinaci akinaci@northwestern.edu  
 
 ### Lab 5
-Date: 10/13  
+Date: 10/20  
 Time: 9am - 10:30am  
 Location: Galter Library 02-013  
 TA: Sam Cooler  
 
+### Workshop 6
+Date: 10/24 
+Time: 9am - 10:30am  
+Location: Lurie - Baldwin Auditorium  
+Topics: Pandas Pt. 1
+Instructor: Matthew Rich matthew.rich@northwestern.edu
 
+### Lab 6
+Date: 10/27  
+Time: 9am - 10:30am  
+Location: Lurie - Searle Seminar Room  
+TA: Sam Cooler
 
+### Workshop 7  
+Date: 10/31  
+Time: 9am - 10:30am  
+Location: McGaw 2-322  
+Topics:  Pandas Pt. 2, Statistics
+Instructor: Matthew Rich matthew.rich@northwestern.edu  
+
+### Lab 7
+Date: 11/3  
+Time: 9am - 10:30am  
+Location: Lurie - Searle Seminar Room  
+TA: Sam Cooler 
