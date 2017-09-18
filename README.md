@@ -12,59 +12,43 @@ myDATA has recieved funding support from the Burroughs Wellcome Fund Grant.
 
 ### Workshop 1  
 Date: 9/19, Time: 9am - 10:30am, Location: McGaw 2-322  
-Topics:  Installations, [Intro to Python](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1)  
+Topics:  Introductions, Installations, [Intro to Python](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1)  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 1
-Date: 9/22  
-Time: 9am - 10:30am  
-Location: Lurie - Searle Seminar Room  
+Date: 9/22, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
 TA: Sam Cooler  
 
 ### Workshop 2
-Date: 9/26  
-Time: 9am - 10:30am  
-Location: McGaw 2-322  
-Topics:  Python
+Date: 9/26, Time: 9am - 10:30am, Location: McGaw 2-322  
+Topics:  [Python pt. 1](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1) 
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 2
-Date: 9/29  
-Time: 9am - 10:30am  
-Location: Lurie - Searle Seminar Room  
+Date: 9/29, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
 TA: Sam Cooler  
 
 ### Workshop 3
-Date: 10/3  
-Time: 9am - 10:30am  
-Location: McGaw 2-322  
-Topics:  Python
+Date: 10/3, Time: 9am - 10:30am, Location: McGaw 2-322  
+Topics:  [Python pt. 2](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_2)
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 3
-Date: 10/6  
-Time: 9am - 10:30am  
-Location: Lurie - Searle Seminar Room  
+Date: 10/6, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
 TA: Sam Cooler  
 
 ### Workshop 4
-Date: 10/10  
-Time: 9am - 10:30am  
-Location: McGaw 2-322  
-Topics:  Python
+Date: 10/10, Time: 9am - 10:30am, Location: McGaw 2-322  
+Topics:  [Python pt. 3](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_3)
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 4
-Date: 10/13  
-Time: 9am - 10:30am  
-Location: Galter Library 02-013  
+Date: 10/13, Time: 9am - 10:30am, Location: Galter Library 02-013  
 TA: Sam Cooler  
 
 ### Workshop 5
-Date: 10/17 
-Time: 9am - 10:30am  
-Location: Lurie - Baldwin Auditorium  
-Topics:  Python
+Date: 10/17, Time: 9am - 10:30am, Location: Lurie - Baldwin Auditorium  
+Topics:  [Python pt. 4](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_4)
 Instructor: Alper Kinaci akinaci@northwestern.edu  
 
 ### Lab 5
