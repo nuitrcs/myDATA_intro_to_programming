@@ -24,56 +24,56 @@ Location: Lurie - Searle Seminar Room
 TA: Sam Cooler  
 
 ### Workshop 2
-Date: 9/26
-Time: 9am - 10:30am
-Location: McGaw 2-322
-Topics:
-Instructor: Janna Nugent janna.nugent@northwestern.edu
+Date: 9/26  
+Time: 9am - 10:30am  
+Location: McGaw 2-322  
+Topics:  
+Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 2
-Date: 9/29
-Time: 9am - 10:30am
-Location: Lurie - Searle Seminar Room
-TA: Sam Cooler
+Date: 9/29  
+Time: 9am - 10:30am  
+Location: Lurie - Searle Seminar Room  
+TA: Sam Cooler  
 
 ### Workshop 3
-Date: 10/3
-Time: 9am - 10:30am
-Location: McGaw 2-322
-Topics:
-Instructor: Janna Nugent janna.nugent@northwestern.edu
+Date: 10/3  
+Time: 9am - 10:30am  
+Location: McGaw 2-322  
+Topics:  
+Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 3
-Date: 10/6
-Time: 9am - 10:30am
-Location: Lurie - Searle Seminar Room
-TA: Sam Cooler
+Date: 10/6  
+Time: 9am - 10:30am  
+Location: Lurie - Searle Seminar Room  
+TA: Sam Cooler  
 
 ### Workshop 4
-Date: 10/10
-Time: 9am - 10:30am
-Location: McGaw 2-322
-Topics:
-Instructor: Janna Nugent janna.nugent@northwestern.edu
+Date: 10/10  
+Time: 9am - 10:30am  
+Location: McGaw 2-322  
+Topics:  
+Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 4
-Date: 10/13
-Time: 9am - 10:30am
-Location: Galter Library 02-013
-TA: Sam Cooler
+Date: 10/13  
+Time: 9am - 10:30am  
+Location: Galter Library 02-013  
+TA: Sam Cooler  
 
 ### Workshop 5
-Date: 10/10
-Time: 9am - 10:30am
-Location: Lurie - Baldwin Auditorium
-Topics:
-Instructor: Janna Nugent janna.nugent@northwestern.edu
+Date: 10/10  
+Time: 9am - 10:30am  
+Location: Lurie - Baldwin Auditorium  
+Topics:  
+Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 5
-Date: 10/13
-Time: 9am - 10:30am
-Location: Galter Library 02-013
-TA: Sam Cooler
+Date: 10/13  
+Time: 9am - 10:30am  
+Location: Galter Library 02-013  
+TA: Sam Cooler  
 
 
 
