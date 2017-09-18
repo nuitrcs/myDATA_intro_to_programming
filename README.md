@@ -8,6 +8,8 @@ The first workshop meeting will take place on Tuesday, September 19, 9:00am – 
 
 myDATA has recieved funding support from the Burroughs Wellcome Fund Grant. 
 
+<TD style="LINE-HEIGHT:20px">
+
 # Schedule
 
 ### Workshop 1
