@@ -48,7 +48,7 @@ TA: Sam Cooler
 
 ### Workshop 5
 Date: 10/17, Time: 9am - 10:30am, Location: Lurie - Baldwin Auditorium  
-Topics:  [Python pt. 4](https://github.com/nuitrcs/pythonworkshops/intropython/Part_4)  
+Topics:  [Python pt. 4](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_4)  
 Instructor: Alper Kinaci akinaci@northwestern.edu  
 
 ### Lab 5
@@ -57,7 +57,7 @@ TA: Sam Cooler
 
 ### Workshop 6
 Date: 10/24, Time: 9am - 10:30am, Location: Lurie - Baldwin Auditorium  
-Topics: [Pandas Pt. 1](https://github.com/nuitrcs/pythonworkshops/dataanalysis/pandas/Part%201%20-%20Basics.ipynb)  
+Topics: [Pandas Pt. 1](https://github.com/nuitrcs/pythonworkshops/blob/master/dataanalysis/pandas/Part%201%20-%20Basics.ipynb)  
 Instructor: Matthew Rich matthew.rich@northwestern.edu  
 
 ### Lab 6
@@ -66,7 +66,7 @@ TA: Sam Cooler
 
 ### Workshop 7  
 Date: 10/31, Time: 9am - 10:30am, Location: McGaw 2-322  
-Topics:  [Pandas Pt. 2](https://github.com/nuitrcs/pythonworkshops/dataanalysis/pandas/Part%202%20-%20Grouping%2C%20Plotting%2C%20%26%20Merging.ipynb) 
+Topics:  [Pandas Pt. 2](https://github.com/nuitrcs/pythonworkshops/blob/master/dataanalysis/pandas/Part%202%20-%20Grouping%2C%20Plotting%2C%20%26%20Merging.ipynb) 
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 ### Lab 7
