@@ -14,7 +14,7 @@ myDATA has recieved funding support from the Burroughs Wellcome Fund Grant.
 Date: 9/19  
 Time: 9am - 10:30am  
 Location: McGaw 2-322  
-Topics:  
+Topics:  Installations, Intro to Python
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 1
@@ -27,7 +27,7 @@ TA: Sam Cooler
 Date: 9/26  
 Time: 9am - 10:30am  
 Location: McGaw 2-322  
-Topics:  
+Topics:  Python
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 2
@@ -40,7 +40,7 @@ TA: Sam Cooler
 Date: 10/3  
 Time: 9am - 10:30am  
 Location: McGaw 2-322  
-Topics:  
+Topics:  Python
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 3
@@ -53,7 +53,7 @@ TA: Sam Cooler
 Date: 10/10  
 Time: 9am - 10:30am  
 Location: McGaw 2-322  
-Topics:  
+Topics:  Python
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 ### Lab 4
