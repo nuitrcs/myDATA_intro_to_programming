@@ -17,7 +17,7 @@ Additional installation instructions are available on the Software Carpentry Git
 
 **Mac users:** Locate the **Terminal** app on your local machine and drag it onto your toolbar. 
 
-**When it's time to download the data:** [(download)](https://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip)
+**When it's time to download the data:** [(download)](https://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip), click on it to unzip, and move the directory **data-shell** into your home directory via your finder/desktop window.
 
 # Schedule
 
