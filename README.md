@@ -12,7 +12,7 @@ myDATA has recieved funding support from the Burroughs Wellcome Fund Grant.
 
 **Download and install the Anaconda distribution of Python 3.6:** [(download)](https://www.anaconda.com/download/). This includes many packages used by the scripts in the workshop series, as well as Jupyter for running notebooks.  
 
-**Windows users:** Download [GitBash](https://git-for-windows.github.io/)  
+**Windows users:** Download [GitBash](https://git-for-windows.github.io/)  Additional installation instructions are available on the software carpentry [website.](https://swcarpentry.github.io/workshop-template/#shell)  
 
 # Schedule
 
