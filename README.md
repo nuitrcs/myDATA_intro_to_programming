@@ -15,7 +15,7 @@ myDATA has recieved funding support from the Burroughs Wellcome Fund Grant.
 **Windows users:** Download [GitBash](https://git-for-windows.github.io/)  
 Additional installation instructions are available on the Software Carpentry Git [website.](https://swcarpentry.github.io/workshop-template/#shell)  
 
-**Mac users:** Locate the Terminal app on your local machine and drag it onto your toolbar.  
+**Mac users:** Locate the **Terminal** app on your local machine and drag it onto your toolbar.  
 
 # Schedule
 
