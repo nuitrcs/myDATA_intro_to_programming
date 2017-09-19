@@ -6,9 +6,13 @@ The first workshop meeting will take place on Tuesday, September 19, 9:00am – 
 
 myDATA has recieved funding support from the Burroughs Wellcome Fund Grant.  
 
-# Installation Instructions
+# Getting Started
 
-Download the Anaconda distribution of Python 3.6 [(download)](https://www.anaconda.com/download/), which includes many packages used by the scripts in the workshop series, as well as Jupyter for running notebooks.
+*Join the slack channel:* [myDATAworkshop](https://join.slack.com/t/mydataworkshop/signup)  
+
+*Download and install the Anaconda distribution of Python 3.6:* [(download)](https://www.anaconda.com/download/). This includes many packages used by the scripts in the workshop series, as well as Jupyter for running notebooks.  
+
+*Windows users:* Download [GitBash](https://git-for-windows.github.io/)  
 
 # Schedule
 
