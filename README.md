@@ -31,16 +31,14 @@ TA: Sam Cooler SamCooler@u.northwestern.edu
 **Lecture: 9/26, Time: 9am - 10:30am, Location: McGaw 2-322**  
 Topics:  [Python pt. 1](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1)  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
-
 **Lab 2: 9/29, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room**  
 TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 3
-#### Lecture: 10/3, Time: 9am - 10:30am, Location: McGaw 2-322  
+**Lecture: 10/3, Time: 9am - 10:30am, Location: McGaw 2-322**  
 Topics:  [Python pt. 2](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_2)  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
-
-#### Lab: 10/6, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
+**Lab: 10/6, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room**  
 TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 4
