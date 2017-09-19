@@ -27,6 +27,7 @@ Topics:  Introductions, Installations, [Intro to Command Line](https://github.co
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 **Lab: 9/22, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room**  
+Topics: [Datacamp Intro to Python for Data Science](https://www.datacamp.com), [Software Carpentry Command Line](http://swcarpentry.github.io/shell-novice)  
 TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 
