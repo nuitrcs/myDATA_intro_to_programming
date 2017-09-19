@@ -25,7 +25,7 @@ Topics:  Introductions, Installations, [Intro to Python](https://github.com/nuit
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 #### Lab: 9/22, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
-TA: Sam Cooler
+TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 2
 #### Lecture: 9/26, Time: 9am - 10:30am, Location: McGaw 2-322  
@@ -33,7 +33,7 @@ Topics:  [Python pt. 1](https://github.com/nuitrcs/pythonworkshops/tree/master/i
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 #### Lab 2: 9/29, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
-TA: Sam Cooler  
+TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 3
 #### Lecture: 10/3, Time: 9am - 10:30am, Location: McGaw 2-322  
@@ -41,7 +41,7 @@ Topics:  [Python pt. 2](https://github.com/nuitrcs/pythonworkshops/tree/master/i
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 #### Lab: 10/6, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
-TA: Sam Cooler  
+TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 4
 #### Lecture: 10/10, Time: 9am - 10:30am, Location: McGaw 2-322  
@@ -49,7 +49,7 @@ Topics:  [Python pt. 3](https://github.com/nuitrcs/pythonworkshops/tree/master/i
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 #### Lab: 10/13, Time: 9am - 10:30am, Location: Galter Library 02-013  
-TA: Sam Cooler  
+TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 5
 #### Lecture: 10/17, Time: 9am - 10:30am, Location: Lurie - Baldwin Auditorium  
@@ -57,7 +57,7 @@ Topics:  [Python pt. 4](https://github.com/nuitrcs/pythonworkshops/tree/master/i
 Instructor: Alper Kinaci akinaci@northwestern.edu  
 
 #### Date: 10/20, Time: 9am - 10:30am, Location: Galter Library 02-013  
-TA: Sam Cooler  
+TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 6
 #### Lecture: 10/24, Time: 9am - 10:30am, Location: Lurie - Baldwin Auditorium  
@@ -65,7 +65,7 @@ Topics: [Pandas Pt. 1](https://github.com/nuitrcs/pythonworkshops/blob/master/da
 Instructor: Matthew Rich matthew.rich@northwestern.edu  
 
 #### Lab: 10/27, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
-TA: Sam Cooler
+TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 7
 #### Lecture: 10/31, Time: 9am - 10:30am, Location: McGaw 2-322  
@@ -73,7 +73,7 @@ Topics:  [Pandas Pt. 2](https://github.com/nuitrcs/pythonworkshops/blob/master/d
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 #### Lab: 11/3, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
-TA: Sam Cooler 
+TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 8  
 #### Lecture: 11/7, Time: 9am - 10:30am, Location: McGaw 2-322   
@@ -81,7 +81,7 @@ Topics:  Pandas Pt. 3, [Numpy](https://github.com/nuitrcs/pythonworkshops/tree/m
 Instructor: Matthew Rich matthew.rich@northwestern.edu  
 
 #### Lab: 11/10, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
-TA: Sam Cooler 
+TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 9
 #### Lecture: 11/14, Time: 9am - 10:30am, Location: McGaw 2-322  
@@ -89,7 +89,7 @@ Topics:  [Visualization with Matplotlib](https://github.com/nuitrcs/pythonworksh
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 #### Lab: 11/17, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room  
-TA: Sam Cooler 
+TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 10
 #### Lecture: 11/28, Time: 9am - 10:30am, Location: McGaw 2-322  
@@ -97,4 +97,4 @@ Topics:  Biostatistics/Focus on the Proposal
 Instructors: Leah J. Welty, Director, Biostatistics Collaboration Center lwelty@northwestern.edu; Janna Nugent janna.nugent@northwestern.edu  
 
 #### Lab: 12/1, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room   
-TA: Sam Cooler 
+TA: Sam Cooler SamCooler@u.northwestern.edu  
