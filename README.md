@@ -21,7 +21,7 @@ Additional installation instructions are available on the Software Carpentry Git
 
 ### Week 1  
 **Lecture: 9/19, Time: 9am - 10:30am, Location: McGaw 2-322**   
-Topics:  Introductions, Installations, [Intro to Python](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1)  
+Topics:  Introductions, Installations, [Intro to Command Line](https://github.com/nuitrcs/commandlineworkshop), [Intro to Python](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1)  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 **Lab: 9/22, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room**  
