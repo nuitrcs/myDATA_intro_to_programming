@@ -66,7 +66,7 @@ Instructor: Alper Kinaci akinaci@northwestern.edu
 TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 6
-**Lecture: 10/24, Time: 9am - 10:30am, Location: Lurie - Baldwin Auditorium**  
+**Lecture: 10/24, Time: 9am - 10:30am, Location: Wieboldt Hall Room 516 (Chicago Campus Business School)**  
 Topics: [Pandas Pt. 1](https://github.com/nuitrcs/pythonworkshops/blob/master/dataanalysis/pandas/Part%201%20-%20Basics.ipynb)  
 Instructor: Matthew Rich matthew.rich@northwestern.edu  
 
