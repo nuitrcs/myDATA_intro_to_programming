@@ -38,7 +38,7 @@ Instructor: Janna Nugent janna.nugent@northwestern.edu
 
 **Lab 2: 9/29, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room** 
 Topics: [Exercises](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_1)  
-        Continue with DataCamp and Software Carpentry from last week  
+        Continue with [DataCamp](https://www.datacamp.com) and [Command Line](http://swcarpentry.github.io/shell-novice) from last week  
         Optional: Begin learning the unix command line editor vi: [vi tutorial](https://ryanstutorials.net/linuxtutorial/vi.php)  
 TA: Sam Cooler SamCooler@u.northwestern.edu  
 
