@@ -46,6 +46,7 @@ TA: Sam Cooler SamCooler@u.northwestern.edu
 ### Week 3
 **Lecture: 10/3, Time: 9am - 10:30am, Location: McGaw 2-322**  
 Topics:  [Python pt. 2](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_2)  
+Download [Pycharm](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwjcjNT0w9LWAhVs4YMKHeLDB2QQjBAILjAB&url=https%3A%2F%2Fwww.jetbrains.com%2Fpycharm%2Fdownload%2F&usg=AOvVaw2RhCH20p1DCQQyTAsBicJ9)  
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 **Lab: 10/6, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room**  
