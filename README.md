@@ -50,6 +50,8 @@ Download [Pycharm](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 **Lab: 10/6, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room**  
+Topics: [Exercises](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_2)  
+         Optional: PyCharm [tutorial](https://blog.jetbrains.com/pycharm/2016/01/introducing-getting-started-with-pycharm-video-tutorials/)  
 TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 
@@ -59,6 +61,7 @@ Topics:  [Python pt. 3](https://github.com/nuitrcs/pythonworkshops/tree/master/i
 Instructor: Janna Nugent janna.nugent@northwestern.edu  
 
 **Lab: 10/13, Time: 9am - 10:30am, Location: Galter Library 02-013**  
+Topics: [Exercises](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_3)  
 TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 5
