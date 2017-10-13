@@ -70,6 +70,7 @@ Topics:  [Python pt. 4](https://github.com/nuitrcs/pythonworkshops/tree/master/i
 Instructor: Alper Kinaci akinaci@northwestern.edu  
 
 **Date: 10/20, Time: 9am - 10:30am, Location: Galter Library 02-013**  
+Topics: [Exercises](https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_4)  
 TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 6
