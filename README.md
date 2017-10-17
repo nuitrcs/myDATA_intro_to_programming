@@ -74,7 +74,7 @@ Topics: [Exercises](https://github.com/nuitrcs/pythonworkshops/tree/master/intro
 TA: Sam Cooler SamCooler@u.northwestern.edu  
 
 ### Week 6
-**Lecture: 10/24, Time: 9am - 10:30am, Location: Wieboldt Hall Room 516 (Chicago Campus Business School)**  
+**Lecture: 10/24, Time: 9am - 10:30am, Location: Lurie - Hughes Auditorium**  
 Topics: [Pandas Pt. 1](https://github.com/nuitrcs/pythonworkshops/blob/master/dataanalysis/pandas/Part%201%20-%20Basics.ipynb)  
 Instructor: Matthew Rich matthew.rich@northwestern.edu  
 
