@@ -83,7 +83,7 @@ TA: Sam Cooler SamCooler@u.northwestern.edu
 
 ### Week 7
 **Lecture: 10/31, Time: 9am - 10:30am, Location: McGaw 2-322**  
-Topics:  [Pandas Pt. 2](https://github.com/nuitrcs/pythonworkshops/blob/master/dataanalysis/pandas/Part%202%20-%20Grouping%2C%20Plotting%2C%20%26%20Merging.ipynb)   
+Topics: [Visualization](https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/visualization)   
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 **Lab: 11/3, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room**   
@@ -91,7 +91,7 @@ TA: Sam Cooler SamCooler@u.northwestern.edu
 
 ### Week 8  
 **Lecture: 11/7, Time: 9am - 10:30am, Location: McGaw 2-322**   
-Topics:  Pandas Pt. 3, [Numpy](https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/numpy)    
+Topics:  [Pandas Pt. 2](https://github.com/nuitrcs/pythonworkshops/blob/master/dataanalysis/pandas/Part%202%20-%20Grouping%2C%20Plotting%2C%20%26%20Merging.ipynb), [Numpy](https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/numpy)    
 Instructor: Matthew Rich matthew.rich@northwestern.edu  
 
 **Lab: 11/10, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room**   
@@ -99,7 +99,7 @@ TA: Sam Cooler SamCooler@u.northwestern.edu
 
 ### Week 9
 **Lecture: 11/14, Time: 9am - 10:30am, Location: McGaw 2-322**   
-Topics:  [Visualization with Matplotlib](https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/visualization)       
+Topics: More Visualization, Catch-up Topics       
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 **Lab: 11/17, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room**   
