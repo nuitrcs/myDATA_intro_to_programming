@@ -83,7 +83,7 @@ TA: Sam Cooler SamCooler@u.northwestern.edu
 
 ### Week 7
 **Lecture: 10/31, Time: 9am - 10:30am, Location: McGaw 2-322**  
-Topics: [Visualization](https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/visualization)   
+Topics: [Visualization](https://github.com/nuitrcs/pythonvisualization)   
 Instructor: Christina Maimone christina.maimone@northwestern.edu  
 
 **Lab: 11/3, Time: 9am - 10:30am, Location: Lurie - Searle Seminar Room**   
